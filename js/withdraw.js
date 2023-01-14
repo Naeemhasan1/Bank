@@ -1,0 +1,1 @@
+console.log('jak paoa gelo');
