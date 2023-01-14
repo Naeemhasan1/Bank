@@ -2,7 +2,6 @@ document.getElementById('btn-deposit').addEventListener('click',function(){
     const depositField = document.getElementById('deposit-field');
     const newDepositAmountString = depositField.value;
     const newDepositAmount = parseFloat(newDepositAmountString);
-    // console.log(newDepositAmount);
     // clear field after click
     depositField.value='';
     // deposit total link
